@@ -1,7 +1,7 @@
 <h2> <img align="center" alt="Art-React" height="30" width="30" src="https://camo.githubusercontent.com/b079fe922f00c4b86f1b724fbc2e8141c468794ce8adbc9b7456e5e1ad09c622/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667"/>👋 Iaeee, eu sou Arthur Yan e sou um Front-End Developer e UX/UI Designer!! </h2>
 <a href="https://github.com/arthuryan08">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=arthuryan08&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthuryan08&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="162em" src="https://github-readme-stats.vercel.app/api?username=arthuryan08&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="162em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthuryan08&layout=compact&langs_count=7&theme=gotham"/>
 </a>
 
 ##
